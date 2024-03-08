@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Since 2019, I’ve been a P.h. D student at Temple University in the Computer & Information Sciences Department, advised by Professor Richard Souvenir. My research focuses on applied computer vision, with my dissertation focusing on methods for multi-view image classification/retrieval.
+Since 2019, I’ve been a P.h. D student at Temple University in the Computer & Information Sciences Department, advised by [Richard Souvenir](https://cis.temple.edu/~souvenir/). I study applied computer vision, with my dissertation focusing on methods for multi-view image classification/retrieval. 
 
 Prior to starting at Temple, I graduated from Villanova University with an M.Sc. in Computer Science in 2018, and from Oberlin College with a B.A. in Economics in 2016. A link to my CV can be found here.
 

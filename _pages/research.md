@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Research"
+title: "Selected Research Projects"
 permalink: /research/
 author_profile: true
 ---
 
+Listed here are some of the research projects that I have been part of. 
 {% include base_path %}
 
 {% for post in site.research reversed %}
