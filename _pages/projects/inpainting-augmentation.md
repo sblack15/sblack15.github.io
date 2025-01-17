@@ -39,7 +39,7 @@ author_profile: true
 <div style="border: 1px solid #ccc; padding: 15px; margin-top: 20px; background-color: #f9f9f9;">
   <strong>BibTeX Citation:</strong>
   <pre style="font-family: monospace; white-space: pre-wrap; background: #f4f4f4; padding: 10px; border-radius: 5px; font-size: 0.7em;">
-    @article{black2021inpainting,
+    @article{black2021evaluation,
     title={Evaluation of Inpainting and Augmentation for Censored Image Queries},
     author={Black, Samuel and Keshavarz, Somayeh and Souvenir, Richard},
     journal={International Journal of Computer Vision},
@@ -50,11 +50,11 @@ author_profile: true
     publisher={Springer}
     }
 
-    @inproceedings{black2020inpainting,
-    title={Evaluation of Image Inpainting for Classification and Retrieval},
+    @inproceedings{black2020evaluation,
+    title={Evaluation of image inpainting for classification and retrieval},
     author={Black, Samuel and Keshavarz, Somayeh and Souvenir, Richard},
     booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
-    pages={1234--1245},
+    pages={1060--1069},
     year={2020}
     }
   </pre>
