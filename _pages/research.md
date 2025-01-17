@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+<meta http-equiv="refresh" content="0; url=/404.html">
 Listed here are some of the research projects that I have been part of. 
 {% include base_path %}
 
