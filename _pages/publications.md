@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Fine-grained Few-Shot Classification with Part Matching \\
+[Fine-grained Few-Shot Classification with Part Matching](https://openaccess.thecvf.com/content/CVPR2025W/FGVC/papers/Black_Fine-grained_Few-Shot_Classification_with_Part_Matching_CVPRW_2025_paper.pdf) \\
 Our project introduces the Simple Matching Parts Learner (SMPL), a simple yet effective parts-based method for fine-grained few-shot classification that achieves state-of-the-art accuracy with lower computational cost by focusing on part-level scene representations. \\
 <small>Samuel Black and Richard Souvenir. In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Fine-Grained Visual Categorization Workshop, 2025.</small>
 
