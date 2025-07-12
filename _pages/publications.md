@@ -5,13 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+Fine-grained Few-Shot Classification with Part Matching \\
+Our project introduces the Simple Matching Parts Learner (SMPL), a simple yet effective parts-based method for fine-grained few-shot classification that achieves state-of-the-art accuracy with lower computational cost by focusing on part-level scene representations. \\
+<small>Samuel Black and Richard Souvenir. In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Fine-Grained Visual Categorization Workshop, 2025.</small>
+
 [Multi-view Classification Using Hybrid Fusion and Mutual Distillation](/projects/multi-view-classification/) \\
 Our novel approach adapts off-the-shelf hybrid CNN/Transformer networks to achieve state-of-the-art performance classifying unstructured (e.g., scene identification) and cross-view (e.g., chest X-ray diagnosis) image collections. \\
-<small>Samuel Black and Richard Souvenir. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2024.</small>
+<small>Samuel Black and Richard Souvenir. In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024.</small>
 
 [Visualizing Paired Image Similarity in Transformer Networks](/projects/transformer-visualization/) \\
 We introduce novel approach for spatially decomposing the similarity between a pair of images encoded with an image Transformer. \\
-<small>Samuel Black, Abby Stylianou, Robert Pless, and Richard Souvenir. In IEEE Winter Conference on Applications of Computer Vision (WACV), 2022.</small>
+<small>Samuel Black, Abby Stylianou, Robert Pless, and Richard Souvenir. In IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022.</small>
 
 [The 2021 Hotel-ID to Combat Human Trafficking Competition Dataset](https://arxiv.org/pdf/2106.05746.pdf) \\
 We develop a new dataset and Kaggle [competition](https://www.kaggle.com/c/hotel-id-2021-fgvc8) for fine-grained hotel room image classification.  
