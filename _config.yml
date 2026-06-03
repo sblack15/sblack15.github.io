@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Sam Black"
 title_separator          : "-"
 name                     : &name "Sam Black"
-description              : &description "personal description"
+description              : &description "Senior Data Scientist at Walmart Global Tech. Computer vision research and applications."
 url                      : https://sblack15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sblack15/sblack15.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Sam Black"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate at Temple University, CIS Department"
-  location         : "Philadelphia"
-  employer         : "Temple University"
+  bio              : "Senior Data Scientist at Walmart Global Tech"
+  location         : "New York"
+  employer         : "Walmart Global Tech"
   uri              : # URL
-  email            : "sam.black@temple.edu" 
+  email            : "samgblack@icloud.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

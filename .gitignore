@@ -3,3 +3,10 @@ _site/
 
 # Ignore the Gemfile that is generated
 Gemfile.lock
+
+# Local bundler/dev artifacts
+.bundle/
+vendor/
+
+# macOS
+.DS_Store
